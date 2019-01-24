@@ -1,2 +1,2 @@
-# teaching_data_science
+# Data Science Tutorials
 Repository for data sciece teaching material
